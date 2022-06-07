@@ -1,1 +1,2 @@
 local project
+local-project
