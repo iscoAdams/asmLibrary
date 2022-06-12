@@ -1,3 +1,1 @@
-local project
-local-project
-try_to
+This is my c++ competitive programming template...
